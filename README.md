@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/naeem-ahmed-636a07190/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naeem-ahmed-636a07190" height="30" width="40" /></a>
-<a href="http://www.instagram.com/naeem_ahmed__0" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naeem_ahmed__0" height="30" width="40" /></a>
+<a href="http://www.instagram.com/naeemahmed.js" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naeem_ahmed__0" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100013787194668" target="_blank"> <img align = "center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a>
 </p>
 
